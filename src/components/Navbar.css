@@ -1,0 +1,24 @@
+.home{
+    background-color: rgb(101, 202, 169);
+    color: #165a17f2;
+      display: flex;
+      justify-content: space-around;
+  }
+  .navbar {
+      display: flex; 
+      flex-wrap: wrap;
+      justify-content: center; 
+    }
+    
+    .navbar ul {
+      display: flex; 
+      list-style: none; 
+     
+    }
+    
+    .navbar li {
+      margin-right: 10px; 
+    }
+    Link{
+      list-style-type: none;
+    }
